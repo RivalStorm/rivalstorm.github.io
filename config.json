@@ -1,0 +1,27 @@
+{
+	"contentdir": "content",
+	"layoutdir": "layouts",
+	"publishdir": "public",
+
+	"builddrafts": false,
+
+	"baseurl": "https://blog.rivalstorm.net",
+	"canonifyurls": true,
+	"permalinks": {
+		"post": ":year/:month/:title/",
+		"fixed": ":title/"
+	},
+
+	"pygmentsuseclasses": true,
+
+	"params": {
+		"Title": "RivalStorm - DevBlog",
+		"Tagline": "A peek under the hood",
+		"Author": "avitex",
+		"DateForm": "2 Jan 2006",
+		"Github": {
+			"Url": "http://github.com/rivalstorm/rivalstorm.github.io",
+			"Head": "master"
+		}
+	}
+}
