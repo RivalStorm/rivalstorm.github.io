@@ -14,6 +14,8 @@
 
 	"pygmentsuseclasses": true,
 
+	"disqusShortname": "blog-rivalstorm",
+
 	"params": {
 		"Title": "RivalStorm - DevBlog",
 		"Tagline": "A peek under the hood",
